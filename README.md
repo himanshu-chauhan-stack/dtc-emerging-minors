@@ -108,7 +108,7 @@ Node.js v18+ required
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/dtc-emerging-minors.git
+git clone https://github.com/himanshu-chauhan-stack/dtc-emerging-minors.git
 
 # Navigate to project
 cd dtc-emerging-minors
